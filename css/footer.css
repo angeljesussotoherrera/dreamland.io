@@ -1,0 +1,38 @@
+/* footer */
+
+#footer{
+  width: 100%;
+  height: 100px;
+  margin: 80px 0px 0px 0px;
+  background-color: rgba(0,0,0,0.8);
+  display: flex;
+  overflow: hidden;
+}
+
+.f_section_1{
+  width: 50%;
+  height: 100px;
+  margin: -5px 0px 0px 20px;
+  color: #fff;
+}
+
+
+.f_section_1 img{
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  margin-top: -5px;
+}
+
+.f_section_2{
+  width: 50%;
+  height: 100px;
+  margin: -5px 20px 0px 0px ;
+  padding: 0;
+  color: #fff;
+  text-align: right;
+}
+.f_section_2 h3, p{
+  padding: 0;
+  margin: 7px;
+}
